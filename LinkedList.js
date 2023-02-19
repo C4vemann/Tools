@@ -222,13 +222,3 @@ function LinkedList(){
 		getLength,
 	}
 }
-
-let x = LinkedList();
-x.push("Anthony");
-x.push("Joey");
-x.push("Maria");
-x.push("Rocco");
-x.push("Angela");
-x.push("Bruce");
-x.push("Mom");
-x.push("Dad");
